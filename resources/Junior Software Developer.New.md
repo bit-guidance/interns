@@ -109,10 +109,10 @@ Analyze job postings from multiple job portals for the specified role and experi
 | # | Company | Job Portal | Job Title | Link |
 | - | ------- | ---------- | --------- | ---- |
 | 1 | Aspiring IT| LinkedIn        | Junior software Engineer           |               https://www.linkedin.com/jobs/view/4436411691/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&trackingId=c4nUGfFy5U8gpaINSv5X7A%3D%3D  |
-| 2 | Capgemini |  LinkedIn      |  Associate Software Engineer          |              https://www.linkedin.com/feed/update/urn:li:activity:7481550350278262784/|
-| 3| Cape Start | LinkedIn      |  Software Engineer          |                 |https://www.linkedin.com/jobs/view/4437166512/?alternateChannel=search&trackingId=%2BFnp5L0aRC2sKAYQHoUFUw%3D%3D|
-| 4 |Avua         |  LinkedIn          | Junior Software Developed          |      |https://www.linkedin.com/jobs/view/4439383684/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=GHl0eKCmWP1HjY5qR4UF7w%3D%3D&trackingId=GG9A6X0Qx2tTKSWEC9GHdw%3D%3D|
-| 5 |American Express    |   LInkedIn         |    Software Engineer       |      |https://www.linkedin.com/jobs/view/4436508608/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=fqdetuDAsvjbgr71kzrwGA%3D%3D&trackingId=RLC7laczusDT2rdwvA6JwA%3D%3D/|
+| 2 | Capgemini |  LinkedIn      |  Associate Software Engineer         |              https://www.linkedin.com/feed/update/urn:li:activity:7481550350278262784/|
+| 3| Cape Start | LinkedIn      |  Software Engineer                     |             https://www.linkedin.com/jobs/view/4437166512/?alternateChannel=search&trackingId=%2BFnp5L0aRC2sKAYQHoUFUw%3D%3D        |
+| 4 |Avua         |  LinkedIn          | Junior Software Developed       |             https://www.linkedin.com/jobs/view/4439383684/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=GHl0eKCmWP1HjY5qR4UF7w%3D%3D&trackingId=GG9A6X0Qx2tTKSWEC9GHdw%3D%3D|
+| 5 |American Express    |   LInkedIn   |    Software Engineer           |             https://www.linkedin.com/jobs/view/4436508608/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=fqdetuDAsvjbgr71kzrwGA%3D%3D&trackingId=RLC7laczusDT2rdwvA6JwA%3D%3D/|
 
 ---
 
