@@ -29,13 +29,17 @@ Analyze job postings from multiple job portals for the specified role and experi
 
 ## Programming Languages
 
-* Python (preferred)
+* Python
+
+* Java , C / C++,
 
 * JavaScript/TypeScript
 
-* Shell
+* Shell, DOM manipulation, and JSON.
 
-* Databases: SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, DocumentDB)
+*  Apache,  Nginx.
+
+* Databases: SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, DocumentDB).
 
 ## Frameworks / Libraries
 
@@ -45,6 +49,8 @@ Analyze job postings from multiple job portals for the specified role and experi
 
 * Flask
 
+* Scrum, Kanban, iterative development, and user story-driven delivery.
+
 ## Tools & Technologies
 
 * Git
@@ -52,6 +58,7 @@ Analyze job postings from multiple job portals for the specified role and experi
 * Docker
 
 ## Platforms / Operating Systems
+
 * Linux
 
 ## Domain Knowledge
@@ -61,9 +68,6 @@ Analyze job postings from multiple job portals for the specified role and experi
 * Familiarity with programming languages, operating systems, algorithms and software development frameworks
 
 * Basic understanding of software development life cycles (e.g., Agile, Scrum)
-
-
-
 
 ## Responsibilities
 
@@ -92,7 +96,7 @@ Analyze job postings from multiple job portals for the specified role and experi
 
 * Devops
 
-* AWS
+* AWS  cloud services.
 
 ## Soft Skills
 
@@ -109,17 +113,29 @@ Analyze job postings from multiple job portals for the specified role and experi
 | # | Company | Job Portal | Job Title | Link |
 | - | ------- | ---------- | --------- | ---- |
 | 1 | Aspiring IT| LinkedIn        | Junior software Engineer           |               https://www.linkedin.com/jobs/view/4436411691/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&trackingId=c4nUGfFy5U8gpaINSv5X7A%3D%3D  |
-| 2 | Capgemini |  LinkedIn      |  Associate Software Engineer         |              https://www.linkedin.com/feed/update/urn:li:activity:7481550350278262784/|
+| 2 | Mafiree|  indeed             |   Software developer               |             https://in.indeed.com/q-junior-software-developer-l-nagercoil,-tamil-nadu-jobs.html?vjk=d748b4562cff2160|
 | 3| Cape Start | LinkedIn      |  Software Engineer                     |             https://www.linkedin.com/jobs/view/4437166512/?alternateChannel=search&trackingId=%2BFnp5L0aRC2sKAYQHoUFUw%3D%3D        |
 | 4 | Avua      |  LinkedIn          | Junior Software Developer        |             https://www.linkedin.com/jobs/view/4439383684/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=GHl0eKCmWP1HjY5qR4UF7w%3D%3D&trackingId=GG9A6X0Qx2tTKSWEC9GHdw%3D%3D|
 | 5 | American Express    |   LInkedIn   |    Software Engineer          |             https://www.linkedin.com/jobs/view/4436508608/?alternateChannel=search&eBP=BUDGET_EXHAUSTED_JOB&refId=fqdetuDAsvjbgr71kzrwGA%3D%3D&trackingId=RLC7laczusDT2rdwvA6JwA%3D%3D/|
 | 6 | Capegemini |Naukri  |    Software Engineer                         |             https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-chennai-0-to-5-years-070726927396?src=seo_srp&sid=17843687536612791&xp=2&px=1|                                                    | 
 | 7 |Z Tech solutions| Naukri| Software developer             |                       https://www.naukri.com/job-listings-urgent-openings-for-software-developer-chennai-z-tech-solutions-chennai-0-to-2-years-090726012916?src=simjobsjd_rt                                                | 
 | 8 | Ordinal Technology Solutions Pvt. Ltd | Indeed            | Junior software developer|  https://in.indeed.com/q-junior-software-developer-fresher-l-nagercoil,-tamil-nadu-jobs.html?vjk=de77e45b2b6a5f0c | 
+| 9 | Delibo| LinkedIn       | Delibo                           |Node.js And AWS Cloud Enthusiast|  https://www.linkedin.com/jobs/search-results/?currentJobId=4397628727&eBP=NOT_ELIGIBLE_FOR_CHARGING&refId=a6Pyxn7otC4K3HhZr1XR5g%3D%3D&trackingId=1RqN%2FkFG1l5LJeZyMu5BbA%3D%3D&keywords=Junior%20Jcloudveloper&origin=SEMANTIC_SEARCH_LANDING_PAGE | 
 
 # Analysis Notes
 
-* Number of job postings reviewed:
-* Common requirements observed:
-* Unique requirements identified:
-* Additional observations:
+* Number of job postings reviewed: 25
+
+* Common requirements observed: 
+
+* Proficiency in Python, Java, or C++.
+
+* Knowledge of SQL, Git/GitHub, and version control.
+
+* Unique requirements identified: Familiarity with Agile/Scrum development practices.
+
+* Experience with REST APIs, microservices, or DevOps tools.
+
+* Additional observations: *Most companies prefer candidates with practical project experience and GitHub portfolios.
+ 
+* Strong communication skills and the ability to collaborate effectively are frequently mentioned.
