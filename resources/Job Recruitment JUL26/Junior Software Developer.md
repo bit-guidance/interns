@@ -125,11 +125,11 @@ Analyze job postings from multiple job portals for the specified role and experi
 | 11 |Netstratum| Indeed            | Junior software developer| https://in.indeed.com/viewjob?jk=b45e9d9cd71573bf | 
 | 12 |Inntot Technologies| Naukri           | Junior software developer|  https://in.indeed.com/viewjob?jk=adb6e01eeb59f699 | 
 | 13 | Capegemini| Naukri   | Junior software developer|  https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-070826930209?src=directSearch&sid=17866105176283168_1&xp=2&px=1 | 
-| 14 | Cisco  |Naukri           | https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-110826505833?src=directSearch&sid=17866107653857146_1&xp=8&px=1 | 
+| 14 | Cisco  |Naukri       | Junior software developer|       | https://www.naukri.com/job-listings-software-engineer-cisco-bengaluru-0-to-5-years-110826505833?src=directSearch&sid=17866107653857146_1&xp=8&px=1 | 
 | 15 |  Razorthink    | Naukri           | Junior software developer|  https://www.naukri.com/job-listings-trainee-software-engineers-freshers-razorthink-bengaluru-0-to-2-years-120826920630?src=directSearch&sid=17866106329945148_1&xp=1&px=1 | 
 | 16 |  Meditechhire | Naukri           | Junior software developer|  https://www.naukri.com/job-listings-software-engineer-medi-tech-hire-kolkata-gandhinagar-chandigarh-0-to-0-years-130826009202?src=jobsearchDesk&sid=17866108803038686&xp=1&px=1 | 
 | 17 |   Tavant| Naukri           | Junior software developer|  https://www.naukri.com/job-listings-software-engineer-tavant-technologies-india-pvt-ltd-bengaluru-0-to-5-years-120826504460?src=jddesktop&sid=1786611494801254&xp=1&px=1 | 
-| 18 |  Tavant| LinkledIn          | Junior software developer|  hhttps://www.linkedin.com/jobs/view/associate-software-engineer-at-thomson-reuters-4390757344/ | 
+| 18 |  Tavant| LinkledIn          | Junior software developer|  https://www.linkedin.com/jobs/view/associate-software-engineer-at-thomson-reuters-4390757344/ | 
 | 19 |  DigiCert| LinkledIn   | Junior software developer|  https://www.linkedin.com/jobs/view/associate-software-engineer-at-digicert-4417849968/ | 
 | 20|  Leapwork| LinkledIn   | Junior software developer|  https://www.linkedin.com/jobs/view/junior-software-engineer-at-leapwork-4376897221/ | 
 
