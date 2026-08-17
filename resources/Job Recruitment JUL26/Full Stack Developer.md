@@ -106,7 +106,7 @@ Analyze job postings from multiple job portals for the specified role and experi
 | 5 |Easemytrip |  Naukri| Full Stack Developer        |https://www.naukri.com/job-listings-full-stack-developer-easemytrip-com-noida-gurugram-5-to-10-years-220424001918?src=directSearch&sid=17866229369459282_1&xp=1&px=1 |
 | 6 | Talentzo Delhi| Naukri  | Full Stack Developer |https://www.naukri.com/job-listings-full-stack-developer-at-a-fintech-company-talentzo-delhi-mumbai-0-to-2-years-110826038867?src=directSearch&sid=17866229369459282_1&xp=3&px=1| 
 | 7 |Godigi Infotech|Naukri|Full Stack Developer| https://www.naukri.com/job-listings-full-stack-developer-godigi-infotech-bengaluru-0-to-1-years-110826502083?src=directSearch&sid=17866229369459282_1&xp=4&px=1|   
-| 8| Heptarc Technology Solution| Indeed|Full Stack Developer|https://in.indeed.com/viewjob?jk=3dc66586702c7683&utm_source=chatgpt.com  |   
+| 8| Heptarc Technology Solution| Indeed| Full Stack Developer  |https://in.indeed.com/viewjob?jk=3dc66586702c7683&utm_source=chatgpt.com  |   
 | 9 |Content-Whale Private Limited |Indeed| |Full Stack Developer |https://in.indeed.com/viewjob?jk=e01ff6426ad7dcaf&utm| 
 | 10| NTT Ltd| Indeed |Full Stack Developer|https://in.indeed.com/viewjob?jk=a55a3eed4b6ef2e3&utm |   
 | 11| Byndr   |    Indeed   | Full Stack Developer|https://in.indeed.com/viewjob?jk=ed538930ee20480b&utm |  
